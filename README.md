@@ -21,7 +21,7 @@ This repository contains a **structured two-part cybersecurity lab project** usi
 
 ## 📚 Part 2 — Enumeration & Security Testing
 
-**PDF:** `Part-2-Enumeration-and-Attacks.pdf`
+**PDF:** `Part-02-Web Server Enumeration & Misconfiguration Lab.pdf`
 
 **Content includes:**
 
